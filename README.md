@@ -1,8 +1,8 @@
 # UTS PWEB - TugasKu
 
-Nama  : [nama]
-NIM   : [NIM]
-Kelas : [kelas]
+Nama  : [Ahmad Snadi Fahman]
+NIM   : [252410103098]
+Kelas : [D]
 
 ## Tentang Web
 
