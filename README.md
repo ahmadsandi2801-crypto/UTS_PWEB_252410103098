@@ -13,16 +13,19 @@ Aplikasi ini tidak memakai database dan tidak ada CRUD. Seluruh data tugas berup
 ## Screenshot
 
 ### Login
-![Login](screenshots/login.png)
+<img width="1218" height="577" alt="Cuplikan layar 2026-11-09 223319" src="https://github.com/user-attachments/assets/6fe45ed2-6ee6-48a6-a271-0a3ab41777a0" />
 
 ### Dashboard
-![Dashboard](screenshots/dashboard.png)
+<img width="1344" height="617" alt="Cuplikan layar 2026-11-09 223338" src="https://github.com/user-attachments/assets/0eca0109-ee62-4f68-867f-10041949838e" />
+
 
 ### Profil
-![Profil](screenshots/profile.png)
+<img width="1358" height="623" alt="Cuplikan layar 2026-11-09 223407" src="https://github.com/user-attachments/assets/c2ca69db-599d-4e34-8235-d9866f663631" />
+
 
 ### Pengelolaan Tugas
-![Pengelolaan Tugas](screenshots/pengelolaan.png)
+<img width="1343" height="622" alt="Cuplikan layar 2026-11-09 223355" src="https://github.com/user-attachments/assets/0656a24a-e1da-4d65-b0ac-a39c9d30003c" />
+
 
 ## Struktur File Utama
 
